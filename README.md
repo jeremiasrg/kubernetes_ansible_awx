@@ -10,7 +10,7 @@
 
 Check complete documentation and the steps to install it. ( SUPER EASY ☺️ ) [here](https://github.com/kubernetes-sigs/kind)
 
-- 1.2 - Configure ower nodes:
+- 1.2 - Configure our nodes:
 
     - 1.2.1 - (Optional) Change you cluster configuration [here](./cluster-config/config.yaml) 
         ```
